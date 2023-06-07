@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "name": "raniiiii",
+      "phonenumber": "2421217487",
+      "email": "raj.adukani@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "designation": "dev",
+      "companyname": "hasdhah",
+      "id": 1
+    },
+    {
+      "name": "rvbnm",
+      "phonenumber": "2421217487",
+      "email": "raj.adukani@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "designation": "dev",
+      "dateofbirth": "76246",
+      "companyname": "hasdhah",
+      "id": 2
+    },
+    {
+      "name": "jjjjjjjjjj",
+      "Designaton": "hhfd",
+      "phonenumber": "67816328762",
+      "email": "vihaanm123@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.9295137286727986
+    },
+    {
+      "name": "rani",
+      "Designaton": "hhfd",
+      "phonenumber": "2421217487",
+      "email": "rani.m@zelarsoft.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.8143298049002223
+    },
+    {
+      "name": "rani",
+      "Designaton": "hhfd",
+      "phonenumber": "2421217487",
+      "email": "raj.adukani@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.9608931096533337
+    },
+    {
+      "name": "rani",
+      "Designaton": "hhfd",
+      "phonenumber": "2421217487",
+      "email": "vihaanm123@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.2656008694839005
+    },
+    {
+      "name": "rani",
+      "Designaton": "hhfd",
+      "phonenumber": "2421217487",
+      "email": "vihaanm123@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.24379088718827102
+    },
+    {
+      "name": "rani",
+      "Designaton": "rfchbcvj",
+      "phonenumber": "67816328762",
+      "email": "fuizen.zelar@gmail.com",
+      "jobtitle": "dev",
+      "department": "IT",
+      "id": 0.6992268479090058
+    },
+    {
+      "name": "rani",
+      "Designaton": "hhfd",
+      "phonenumber": "2421217487",
+      "email": "rani.m@zelarsoft.com",
+      "jobtitle": "jb",
+      "department": "IT",
+      "id": 0.8793585795040828
+    }
+  ]
+}

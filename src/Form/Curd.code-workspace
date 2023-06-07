@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Curd",
+			"path": "../../../../Curd"
+		},
+		{
+			"name": "CredForm",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
